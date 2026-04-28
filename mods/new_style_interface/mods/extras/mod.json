@@ -1,0 +1,13 @@
+{
+	"name" : "adventure buttons",
+	"description" : "overrides iam001 as correct source to generate big colored buttons by engine, also contains latest adventure map config",
+
+	"author" : "faust.twi",
+	"contact" : "https://forum.vcmi.eu/t/how-to-open-def-sprites/6174",
+	"version" : "1.0",
+
+	"modType" : "Compatibility",
+	"depends" : [
+		"vcmi-extras.adventureMap"
+	]
+}

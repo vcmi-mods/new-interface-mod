@@ -1,0 +1,1 @@
+These dialogs are now genereated by engine, can be modded too, but requires too much changes. Folder is renamed to not use obsolete assets.

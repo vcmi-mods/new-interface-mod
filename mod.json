@@ -1,7 +1,7 @@
 {
 	"name" : "New-style Interface",
 	"description" : "Mod changes many of standard H3 interface graphics.",
-	"version" : "1.7.2",
+	"version" : "1.7.3",
 	"author" : "FCst1 and NI team. Mod - Kuririn, faust.twi",
 	"contact" : "https://www.youtube.com/watch?v=BMz2CFtGuEw",
 	"modType" : "Interface",
@@ -78,6 +78,18 @@
 			"Fixed small button design for main menu",
 			"Moved mod to repo root",
 			"Added University background for future use"
+		],
+		"1.7.3 (2026.04.28)" : [
+			"Fixed status bar on Kingdom overview",
+			"Fixed resources bar",
+			"Fixed Town portal dialog",
+			"Fixed Market place resource trade dialog",
+			"Fixed Chat window background",
+			"Fixed adventure map config",
+			"Fixed Battle mode background",
+			"Updated VCMI logo on AIShield",
+			"Added University background for 1-3 skills variants",
+			"Switched to standard adventure buttons icons due lack of assets in required quality"
 		]
 	},
 	"czech" : {
