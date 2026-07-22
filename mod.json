@@ -94,6 +94,9 @@
 	},
 	"czech" : {
 		"name" : "Nový styl rozhraní",
-		"description" : "Modifikace mění mnoho prvků standardní grafiky rozhraní Heroes 3"
+		"description" : "Modifikace mění mnoho prvků standardní grafiky rozhraní Heroes 3",
+		"translations" : [
+			"translation/czech.json"
+		]
 	}
 }

@@ -1,0 +1,10 @@
+{
+	"mod.name": "Nový styl rozhraní",
+	"mod.description": "Modifikace mění mnoho prvků standardní grafiky rozhraní Heroes 3",
+	"mod.new_flags.name": "Nové vlajky",
+	"mod.new_flags.description": "Změní ikony vlajek v okně pokročilých možností při výběru scénáře.",
+	"mod.new_style_interface.name": "Nový styl rozhraní",
+	"mod.new_style_interface.description": "Modifikace mění mnoho prvků standardní grafiky rozhraní Heroes 3",
+	"mod.townhall_backgrounds.name": "Pozadí radnic měst",
+	"mod.townhall_backgrounds.description": "Přepisuje pozadí radnic v 9 základních městech a některých modifikovaných."
+}
